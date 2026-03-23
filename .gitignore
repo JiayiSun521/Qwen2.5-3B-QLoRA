@@ -1,0 +1,10 @@
+
+model/
+output/merged-fp16/
+output/gguf/
+output/checkpoint*/
+output/checkpoint-64/
+__pycache__/
+*.pyc
+*.gguf
+*.safetensors
